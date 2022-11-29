@@ -299,6 +299,7 @@ pyim-page 的核心的功能，为此增加代码的复杂度和测试的难度�
                  :min-width pyim-page-posframe-min-width
                  :background-color (face-attribute 'pyim-page :background)
                  :foreground-color (face-attribute 'pyim-page :foreground)
+                 :font (face-attribute 'pyim-page :font)
                  :border-width pyim-page-posframe-border-width
                  :border-color (face-attribute 'pyim-page-border :background)))
 
